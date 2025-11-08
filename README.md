@@ -20,6 +20,7 @@ It collects live factory data, forecasts product demand, and alerts managers bef
 ---
 
 ## 🧩 Project Structure
+
 SupplyNext-Nexus/
 ├── backend/ # FastAPI backend server
 │ ├── app.py
@@ -34,5 +35,5 @@ SupplyNext-Nexus/
 │ ├── dashboard_app.py
 │ ├── team_logo.png
 │ └── style.css
-└── README.md
+├── README.md
 └── requirements.txt
