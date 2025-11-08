@@ -19,6 +19,19 @@ It collects live factory data, forecasts product demand, and alerts managers bef
 
 ---
 
+## ⚡ Run the Prototype in 3 Commands
+
+```bash
+# 1️⃣ Start Backend (API + DB)
+cd backend && uvicorn app:app --reload
+
+# 2️⃣ Run IoT Data Simulator
+cd ../iot_simulator && python iot_simulator.py
+
+# 3️⃣ Launch Dashboard
+cd ../dashboard && streamlit run dashboard_app.py
+```
+
 ## 🧩 Project Structure
 
 ```text
@@ -37,5 +50,6 @@ SupplyNext-Nexus/
 │ ├── team_logo.png
 │ └── style.css
 ├── README.md
+└── setup_instructions.md
 └── requirements.txt
 ```
