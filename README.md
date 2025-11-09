@@ -1,10 +1,10 @@
-# 📦 SupplyNext Nexus
+# 📦 Aquila Tower
 ### AI-Powered Central Control Tower for Smart Supply Chains
 
 ---
 
 ## 🚀 Overview
-**SupplyNext Nexus** is an intelligent control platform integrating IoT, ERP, and AI analytics for real-time supply chain visibility.  
+**Aquila Tower** is an intelligent control platform integrating IoT, ERP, and AI analytics for real-time supply chain visibility.  
 It collects live factory data, forecasts product demand, and alerts managers before stock shortages occur.
 
 ---
