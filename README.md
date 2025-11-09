@@ -32,6 +32,8 @@ cd ../iot_simulator && python iot_simulator.py
 cd ../dashboard && streamlit run dashboard_app.py
 ```
 
+📖 **Full Setup Guide:** [View setup_instructions.md](./setup_instructions.md)
+
 ## 🧩 Project Structure
 
 ```text
