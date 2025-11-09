@@ -55,6 +55,6 @@ SupplyNext-Nexus/
 │ ├── team_logo.png
 │ └── style.css
 ├── README.md
-└── setup_instructions.md
+├── setup_instructions.md
 └── requirements.txt
 ```
