@@ -26,10 +26,10 @@ It collects live factory data, forecasts product demand, and alerts managers bef
 cd backend && uvicorn app:app --reload
 
 # 2️⃣ Run IoT Data Simulator
-cd ../iot_simulator && python iot_simulator.py
+cd ../iot_sim && python iot_simulator.py
 
 # 3️⃣ Launch Dashboard
-cd ../dashboard && streamlit run dashboard_app.py
+cd ../dashboard && streamlit run dashboard.py
 ```
 
 📖 **Full Setup Guide:** [View setup_instructions.md](./setup_instructions.md)
